@@ -1,0 +1,100 @@
+#sm_circle{
+height: 80px;
+width: 150px;
+background-color: rgb(2, 2, 2);
+border-radius: 150px 150px 0px 0px;
+}
+#bg_circle{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(252, 10, 10);
+    border-radius: 0px 0px 600px 600px;
+ }
+#line{
+    margin-top: 35px;
+    height: 150px;
+    width: 2px;
+    background-color: black;
+}
+.ball{
+    height: 10px;
+    width: 10px;
+    background-color: black;
+    border-radius: 100%;
+}
+#ball_1{
+    margin-top: -120px;
+    margin-left: -90px;
+}
+#ball_2{
+    height: 8px;
+    width: 8px;
+    margin-top: 15px;
+    margin-left: -50px;
+}#ball_3{
+    height: 15px;
+    width: 15px;
+    margin-top: 20px;
+    margin-left: -90px;
+}#ball_4{
+    margin-top: -71px;
+    margin-left: 40px;
+}#ball_5{
+    margin-top: 20px;
+    margin-left: 90px;
+}#ball_6{
+    height: 15px;
+    width: 15px;
+    margin-top: 19px;
+    margin-left: 40px;
+}
+#ball_7{
+    margin-top: 9px;
+    margin-left: 90px;
+    height: 5px;
+    width: 5px;
+}
+#ball_8{
+    background-color: white;
+    margin-top: -160px;
+    margin-left: 70px;
+    height: 10px;
+    width: 10px;
+}
+#ball_9{
+    background-color: white;
+    margin-top: -10px;
+    margin-left: -70px;
+    height: 10px;
+    width: 10px;
+}
+#ball_10{
+    background-color: #060606;
+    margin-top: -260px;
+    margin-left: 150px;
+    height: 5px;
+    width: 5px;
+}
+#ball_11{
+    background-color: #060606;
+    margin-top: -5px;
+    margin-left: -139px;
+    height: 5px;
+    width: 5px;
+}
+#sensor{
+    height: 70px;
+    width: 1px;
+    background-color: black;
+    transform: rotate(30deg);
+    margin-left: 116px;
+    margin-top: -7px;
+}
+#sensor2{
+    height: 70px;
+    width: 1px;
+    background-color: black;
+    transform: rotate(150deg);
+    margin-left: -102px;
+    margin-top: -69px;
+}
